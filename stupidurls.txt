@@ -1,0 +1,74 @@
+# StupidURL list
+#
+# This is a personal list of mine which contains the 
+# URLs that malicious/ads/sites which distributes malwares and such.
+# I recently thought of making it public. Hope it helps you!
+# Also I don't promote piracy as you can see most of the urls
+# are like the websites they are providing cracks/patches.
+# These are not meant to promote piracy (I bear no responsible for your deed :3) 
+# instead to create its to a safer internet surfing experience.
+# All of these sites are harmful/malicious.
+#
+# Contribute:
+# Create an issue at https://github.com/KurtNettle/stupidurls/issues
+#
+
+127.0.0.1 crackandcrack.com
+127.0.0.1 mycrackfree.com
+127.0.0.1 pressclever.weebly.com
+127.0.0.1 skullcrackaz.blogspot.com
+127.0.0.1 crackedskullaz.blogspot.com
+127.0.0.1 kuyhaa-me.pw
+127.0.0.1 birthdaydwnload657.weebly.com
+127.0.0.1 postsrenew600.weebly.com
+127.0.0.1 odra160.xyz
+127.0.0.1 54.215.244.207
+127.0.0.1 54.83.110.133
+127.0.0.1 52.5.66.159
+127.0.0.1 freeprosoftz.com
+127.0.0.1 orra472.xyz
+127.0.0.1 realcracks2.blogspot.com
+127.0.0.1 newwire601.weebly.com
+127.0.0.1 pressclever.weebly.com
+127.0.0.1 visalasopa149.weebly.com
+127.0.0.1 iamactivator.com
+127.0.0.1 www.getpcsofts.net
+127.0.0.1 crackreview.com
+127.0.0.1 ayeshapc.com
+127.0.0.1 thecracksetup.com
+127.0.0.1 3.89.110.10
+127.0.0.1 www.getpcsofts.net
+127.0.0.1 mycrackfree.com
+127.0.0.1 trycracksetup.com
+127.0.0.1 geniusactivator.com
+127.0.0.1 mahcrack.com
+127.0.0.1 crackswall.com
+127.0.0.1 3.92.239.83
+127.0.0.1 workingkeys.org
+127.0.0.1 scracked.com
+127.0.0.1 crackedhere.com
+127.0.0.1 34.219.5.2
+127.0.0.1 activationkeys.org
+127.0.0.1 xproductkey.com
+127.0.0.1 portabledownloads.com
+127.0.0.1 23.20.171.130
+127.0.0.1 ijicrack.com
+127.0.0.1 crack4windows.com
+127.0.0.1 creative-solutions.gr
+127.0.0.1 hostmedown.com
+127.0.0.1 crackist.com
+127.0.0.1 muzamilpc.com
+127.0.0.1 wazusoft.com
+127.0.0.1 crackgrid.com
+127.0.0.1 bubl-filez.xyz
+127.0.0.1 bitc1filez.xyz
+127.0.0.1 52.41.231.250
+127.0.0.1 appsfullversion.com
+127.0.0.1 adsr4.cyou
+127.0.0.1 downloadfreecracks.com
+127.0.0.1 share2downloads.com
+127.0.0.1 see.kmisln.com
+127.0.0.1 keygencloud.com
+127.0.0.1 crackinns.com
+127.0.0.1 uperneasi.xyz
+127.0.0.1 toolspos.xyz
